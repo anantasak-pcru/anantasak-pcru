@@ -6,12 +6,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 17 November, 2020 - 24 November, 2020
+Week: 18 November, 2020 - 25 November, 2020
 
-Kotlin       4 hrs 19 mins   ██████████▒░░░░░░░░░░░░░░   41.13 % 
-SQL          3 hrs 22 mins   ████████░░░░░░░░░░░░░░░░░   32.14 % 
-TypeScript   1 hr 23 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.23 % 
-Groovy       25 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 % 
-JSON         25 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 % 
+PHP          4 hrs 29 mins   ███████▒░░░░░░░░░░░░░░░░░   29.20 % 
+Kotlin       4 hrs 19 mins   ███████░░░░░░░░░░░░░░░░░░   28.14 % 
+SQL          3 hrs 23 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.08 % 
+TypeScript   1 hr 23 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.05 % 
+JSON         26 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
 ```
 <!--END_SECTION:waka-->
