@@ -8,12 +8,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 23 November, 2020 - 30 November, 2020
+Week: 24 November, 2020 - 01 December, 2020
 
-PHP          6 hrs 34 mins   ████████░░░░░░░░░░░░░░░░░   32.26 % 
-Kotlin       6 hrs 9 mins    ███████▓░░░░░░░░░░░░░░░░░   30.28 % 
-SQL          4 hrs 16 mins   █████▒░░░░░░░░░░░░░░░░░░░   20.96 % 
-TypeScript   1 hr 23 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.83 % 
-XML          35 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.90 % 
+PHP          28 hrs 12 mins  ████████████▓░░░░░░░░░░░░   50.50 % 
+Kotlin       17 hrs 24 mins  ███████▓░░░░░░░░░░░░░░░░░   31.17 % 
+XML          3 hrs 12 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.75 % 
+TypeScript   2 hrs 50 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.08 % 
+JSON         1 hr 6 mins     ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.97 % 
 ```
 <!--END_SECTION:waka-->
