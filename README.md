@@ -4,7 +4,7 @@
 
 ![Coder](https://media.giphy.com/media/MdA16VIoXKKxNE8Stk/giphy.gif)
 
-<img src="https://github.com/anantasak-pcu/anantasak-pcru/blob/main/images/stat.svg" alt="Alternative Text"/>
+<img src="./images/stat.svg" alt="Alternative Text"/>
 
 <!--START_SECTION:waka-->
 ```text
