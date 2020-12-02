@@ -4,6 +4,8 @@
 
 ![Coder](https://media.giphy.com/media/MdA16VIoXKKxNE8Stk/giphy.gif)
 
+<img src="https://github.com/anantasak-pcu/anantasak-pcru/blob/main/images/stat.svg" alt="Alternative Text"/>
+
 <!--START_SECTION:waka-->
 ```text
 Week: 23 November, 2020 - 30 November, 2020
